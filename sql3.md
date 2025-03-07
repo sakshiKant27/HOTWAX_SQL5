@@ -8,7 +8,7 @@
    4. CITY  
    5. STATE_PROVINCE    
    6. POSTAL_CODE    
-   7.TOTAL_AMOUNT    
+   7. TOTAL_AMOUNT    
    8. ORDER_DATE    
    9. ORDER_STATUS    
  
