@@ -1,6 +1,5 @@
 ### 1.Newly Created Sales Orders and Payment Methods
- Business Problem:​Finance teams need to see new orders and their payment methods for
- reconciliation and fraud checks.
+ Business Problem:​Finance teams need to see new orders and their payment methods for reconciliation and fraud checks.
 Fields to Retrieve:
 ●​ ORDER_ID
 ●​ TOTAL_AMOUNT
