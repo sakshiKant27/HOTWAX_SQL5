@@ -6,11 +6,11 @@
    2.CUSTOMER_NAME  
    3. STREET_ADDRESS (or shipping address detail)  
    4. CITY  
-   5. STATE_PROVINCE  
-   6. POSTAL_CODE  
-   7.TOTAL_AMOUNT  
-   8. ORDER_DATE  
-   9. ORDER_STATUS  
+   5. STATE_PROVINCE    
+   6. POSTAL_CODE    
+   7.TOTAL_AMOUNT    
+   8. ORDER_DATE    
+   9. ORDER_STATUS    
  
 # Solution:
 ![Screenshot from 2025-03-08 01-49-14](https://github.com/user-attachments/assets/4d9055c9-d8fd-4754-817d-e70009911b1b)
