@@ -1,7 +1,7 @@
 ## Business Problem:  
 # The marketing team ran a campaign in June 2023 and wants to see how many new customers signed up during that period.    
-Fields to Retrieve:
-1.PARTY_ID   
+Fields to Retrieve:  
+1.PARTY_ID     
 2.FIRST_NAME  
 3.LAST_NAME  
 4.EMAIL   
