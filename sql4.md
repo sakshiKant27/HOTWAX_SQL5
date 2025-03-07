@@ -1,7 +1,7 @@
 ## Payment Captured but Not Shipped  
 # Business Problem:    
 Finance teams want to ensure revenue is recognized properly. If payment is captured but no shipment has occurred, it warrants further review.    
-#Fields to Retrieve:
+# Fields to Retrieve:  
     ORDER_ID      
     ORDER_STATUS      
     PAYMENT_STATUS      
