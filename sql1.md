@@ -8,13 +8,8 @@ Fields to Retrieve:
 ●​ Shopify Order ID (if applicable)
 
   # Solution-
-  select oh.order_id,
-       oh.grand_total AS TotalAmount,
-       opp.payment_method_type_id AS PaymentMethod,
-       oh.external_id AS Shopify_Order_Id
-       from Order_Header oh
-      JOIN order_payment_preference opp on opp.order_id = oh.order_id
-      where oh.status_id = 'ORDER_CREATED' and oh.order_type_id='SALES_ORDER';
+ ![Screenshot from 2025-03-08 00-44-44](https://github.com/user-attachments/assets/b4fba2bb-20d0-42de-82cf-028c5b352a84)
+
 
 # Query Explanation 
 Retrieves order details (order_id, TotalAmount, PaymentMethod, Shopify_Order_Id).
