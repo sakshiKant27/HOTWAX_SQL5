@@ -3,7 +3,7 @@
  Companies often want region-specific analysis to plan local marketing, staffing, or promotions in certain areas—here, specifically, New York.  
  # Fields to Retrieve:  
    1. ORDER_ID  
-   2.CUSTOMER_NAME  
+   2. CUSTOMER_NAME  
    3. STREET_ADDRESS (or shipping address detail)  
    4. CITY  
    5. STATE_PROVINCE    
