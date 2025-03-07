@@ -12,8 +12,10 @@
    8. ORDER_DATE  
    9. ORDER_STATUS  
  
-#Solution:
-![Screenshot from 2025-03-08 01-49-14](https://github.com/user-attachments/assets/514b9161-84d4-4d60-93ab-67b7c69173c5  
+# Solution:
+![Screenshot from 2025-03-08 01-49-14](https://github.com/user-attachments/assets/4d9055c9-d8fd-4754-817d-e70009911b1b)
+
+ 
 
 #Query Explanation  
 1.Retrieves order details, customer name, and shipping address for orders shipped to New York (NY).  
