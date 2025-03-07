@@ -2,7 +2,8 @@
  Business Problem:​Finance teams need to see new orders and their payment methods for
  reconciliation and fraud checks.
 Fields to Retrieve:
-●​ ORDER_ID●​ TOTAL_AMOUNT
+●​ ORDER_ID
+●​ TOTAL_AMOUNT
 ●​ PAYMENT_METHOD
 ●​ Shopify Order ID (if applicable)
 
