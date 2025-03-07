@@ -1,5 +1,5 @@
-##Business Problem:  
-#The marketing team ran a campaign in June 2023 and wants to see how many new customers signed up during that period.    
+## Business Problem:  
+# The marketing team ran a campaign in June 2023 and wants to see how many new customers signed up during that period.    
 Fields to Retrieve:
 1.PARTY_ID   
 2.FIRST_NAME  
@@ -12,7 +12,7 @@ Fields to Retrieve:
 ![Screenshot from 2025-03-08 00-55-03](https://github.com/user-attachments/assets/0ca60422-599f-4566-a932-ab6081fec9e9)
 
 
-#Approach  
+# Approach  
  To retrieve the list of new customers who signed up in June 2023:    
   1. Join PARTY and PERSON – Retrieves basic customer details like ID, first name, and last name.   
   2. Filter by CREATED_DATE – Ensures only customers created within June 2023 are included.  
