@@ -19,5 +19,10 @@ Finance teams want to ensure revenue is recognized properly. If payment is captu
     The shipment status is NULL (indicating no shipment yet), AND  
     The payment is settled (opp.status_id = 'PAYMENT_SETTLED').  
 
+# Query Cost -60840.84
+
+![Screenshot from 2025-03-08 10-40-49](https://github.com/user-attachments/assets/d8680f53-13f4-41a6-9d19-b2a31fe48441)
+
+
 
     
