@@ -17,11 +17,15 @@
 
  
 
-#Query Explanation  
+# Query Explanation  
 1.Retrieves order details, customer name, and shipping address for orders shipped to New York (NY).  
 2.Joins order_contact_mech to get the shipping location (SHIPPING_LOCATION).  
 3.Joins party_contact_mech to link the shipping address to the customer.  
 4.Joins postal_address to fetch street, city, state, and postal code.  
 5.Joins person to retrieve customer's first and last name.  
 6.Filters only New York orders using pa.state_province_geo_id = 'NY'.  
+
+# Query Cost-17476.71 (75 rows)  
+![Screenshot from 2025-03-08 10-18-42](https://github.com/user-attachments/assets/1c7c1d37-19d5-4704-9ecc-6ab6a80cb1a5)
+
 
