@@ -6,7 +6,8 @@ The merchandising team needs to know how many orders were canceled in the previo
     CANCELATION REASON  
 
 # Solution:
-![Screenshot from 2025-03-08 02-17-17](https://github.com/user-attachments/assets/4e07afa7-e2fb-4b7c-adeb-3feede4a3778)
+![Screenshot from 2025-03-08 10-49-31](https://github.com/user-attachments/assets/39ad55de-cfe8-4fd8-865d-fb2c5fd5d983)  
+
 
 
 # Query Explanation  
