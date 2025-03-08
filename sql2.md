@@ -18,4 +18,9 @@ Fields to Retrieve:
   2. Filter by CREATED_DATE – Ensures only customers created within June 2023 are included.  
   3. Join PARTY_ROLE – Filters to include only those with a CUSTOMER role.  
   4. Join PARTY_CONTACT_MECH and CONTACT_MECH – Fetches the email address of each customer.  
-  5. Left Join TELECOM_NUMBER – Retrieves the phone number.  
+  5. Left Join TELECOM_NUMBER – Retrieves the phone number.
+
+# QueryCost- 28436.11
+
+![Screenshot from 2025-03-08 10-14-57](https://github.com/user-attachments/assets/9fe7f587-7b8c-4f83-a4c5-c33bb23083ef)
+
