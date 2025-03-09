@@ -8,4 +8,5 @@ ORDER_STATUS
 FACILITY_ID     
 DURATION (How long has the order been assigned at the facility    
 
-![image](https://github.com/user-attachments/assets/ee0e3c00-cf7d-4b8c-90d6-16039a7a8c11)
+![image](https://github.com/user-attachments/assets/b522c139-7f6f-479f-89bf-ec89c7f68456)
+
