@@ -1,4 +1,4 @@
-## 2. Orders Without Picklist  
+## 12. Orders Without Picklist  
 # Business Problem:
 A picklist is necessary for warehouse staff to gather items. Orders missing a picklist might be delayed and need attention.
 # Fields to Retrieve: 
